@@ -1,0 +1,21 @@
+                                * {
+                                margin: 0px;
+                                padding: 0px;
+                            }
+                            /* nav area started */
+                            
+                            .nav-container {
+                                display: flex;
+                                justify-content: space-around;
+                                align-items: center;
+                                background-color: rgb(122, 23, 23);
+                                padding: 10px;
+                            }
+                            
+                            .menus {
+                                list-style: none;
+                                display: flex;
+                                gap: 15px;
+                                font-size: 20px;
+                                font-style: italic;
+                                /* nav area ended */
